@@ -1,6 +1,6 @@
 DROP DATABASE IF EXISTS university_db;
 
--- Create the database
+-- Create the database for lab
 CREATE DATABASE university_db;
 
 -- Use the database
